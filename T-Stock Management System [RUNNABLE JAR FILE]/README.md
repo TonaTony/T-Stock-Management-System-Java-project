@@ -14,7 +14,7 @@ with similar keywords or segments of their name or item code. Due to time limita
 the system namely: Purchases, Clients and Analytics & Reports are unavailable in this initial version 
 because they haven’t been added yet but will be added and available in subsequent versions. There is 
 also a preview system as guest option to show a quick view of what the system looks like but without 
-any functionality because login is required to access the system functionalities.\
+any functionality because login is required to access the system functionalities.
 ---
 Instructions:
 - Open and run XAMPP and start the Apache and SQL modules.
