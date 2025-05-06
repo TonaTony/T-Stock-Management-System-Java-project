@@ -1,5 +1,5 @@
-T-Stock Management System Java project.\
-Project author: https://github.com/TonaTony
+#T-Stock Management System Java project.\
+#Project author: https://github.com/TonaTony .
 ---
 This project is a simple Java project for a stock management system. This system includes a smooth 
 GUI for users to perform different operations such as sign-up, login, stock item creation, stock item update,
