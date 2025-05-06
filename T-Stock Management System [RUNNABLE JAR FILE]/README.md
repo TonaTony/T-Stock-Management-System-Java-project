@@ -1,6 +1,6 @@
-T-Stock Management System Java project.
+T-Stock Management System Java project.\
 Project author: https://github.com/TonaTony
---
+---
 This project is a simple Java project for a stock management system. This system includes a smooth 
 GUI for users to perform different operations such as sign-up, login, stock item creation, stock item update,
 stock item deletion, user account update, item search, displaying stock data and a database to store user 
@@ -14,8 +14,8 @@ with similar keywords or segments of their name or item code. Due to time limita
 the system namely: Purchases, Clients and Analytics & Reports are unavailable in this initial version 
 because they haven’t been added yet but will be added and available in subsequent versions. There is 
 also a preview system as guest option to show a quick view of what the system looks like but without 
-any functionality because login is required to access the system functionalities.
---
+any functionality because login is required to access the system functionalities.\
+---
 Instructions:
 - Open and run XAMPP and start the Apache and SQL modules.
 - Import the " tsms_projectdb.sql " database into XAMPP.
